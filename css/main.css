@@ -4,19 +4,23 @@
    Author's custom styles
    ========================================================================== */
 
+.answer {
+  height: 80px;
+}
 
+.alphabet {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 10px;
+  width: 35px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
 
+.line1, .line2 {
+  margin-bottom: 14px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.line1 {
+  margin-top: 20px
+}
