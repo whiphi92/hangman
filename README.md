@@ -5,3 +5,5 @@ Bonus: Plays a sound when the user wins a point, and a different sound when the 
 The user starts with 10 guesses per word, and loses one guess for each incorrect letter.
 
 Bonus: I added hints for the user, each hint is matched to each answer.
+
+Here is a modification.
